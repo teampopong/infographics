@@ -2,7 +2,7 @@
 
 library(ggplot2)
 
-df <- read.csv('/home/e9t/dev/popong/sites/blog.popong.com/source/_drafts/nbills.csv')
+df <- read.csv('data.csv')
 options(device="png")
 
 ggplot(df, aes(x=assembly_id, y=nbills, fill=nbills)) +
