@@ -19,7 +19,12 @@ def draw_graph():
     runfile = [f for f in os.listdir('.')\
                  if os.path.basename(f).rsplit('.', 1)[0]=='draw'][0]
     os.system('./%s' % runfile)
-    Image.open('drawing.png').show()
+    images = [f for f in os.listdir('.') if os.path.splitext(f)[1]=='.png']
+
+    if images:
+        print 'Open:', images
+        for i in images:
+            Image.open(i).show()
 
 
 if __name__=='__main__':
