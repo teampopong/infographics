@@ -9,7 +9,7 @@ from PIL import Image
 
 def check_input():
     if not len(sys.argv) > 1:
-        raise IOError('Usage: ./build.py [year]/[title]')
+        raise Exception('Usage: ./build.py [year]/[title]')
 
     if not os.path.isdir(sys.argv[1]):
         raise IOError('Path does not exist')

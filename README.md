@@ -1,12 +1,19 @@
-# Infographics about Korean legislations
+# Infographics on Korean Politics
 
 
 ## Dependencies
 - PIL
 
+## Run
 
-## List of graphics
-- [timeline](2014/timeline/drawing.png)
+그림을 그리기 위해 아래를 실행한다.
+
+    $ ./build.py [graphic_code]
+
+
+### List of graphic codes
+
+- [2014/timeline](2014/timeline/drawing.png)
 
 
 ## How to contribute
@@ -14,7 +21,7 @@
 ### 코드
 
 1. 각 연도의 폴더 아래 각 인포그래픽 관련 폴더 생성 (ex: `2014/timeline/`)
-1. 인포그래픽을 생성하는 코드는 `draw.*`에 저장하고 실행권한 부여 (ex: `2014/timeline/draw.py`)
+1. 인포그래픽을 생성하는 코드는 `draw.*`에 저장하고 실행권한 부여 (ex: `2014/timeline/draw.r`)
 1. 인포그래픽은 `drawing.png`로 저장 (ex: `2014/timeline/drawing.png`)
 
 ### 데이터
