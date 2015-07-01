@@ -21,9 +21,11 @@
 
 ### List of graphic codes
 
-- [2014/timeline](2014/timeline/drawing.png): 역대 국회, 대통령 타임라인 비교
-- [2014/nbills](2014/nbills/nbills.png): 국회별 발의 의안 수
-- [2014/rerun](2014/rerun/drawing.png): 국회의원 재출마, 재선출 비율
+Names/handles in parentheses are contributers.
+
+- [2014/timeline](2014/timeline/drawing.png): 역대 국회, 대통령 타임라인 비교 (@e9t)
+- [2014/nbills](2014/nbills/nbills.png): 국회별 발의 의안 수 (@sairion, @e9t, @cornchz)
+- [2014/rerun](2014/rerun/drawing.png): 국회의원 재출마, 재선출 비율 (@e9t)
 
 
 ## How to contribute
