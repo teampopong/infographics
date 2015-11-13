@@ -1,7 +1,31 @@
 # Infographics on Korean Politics
 
 
+Names/handles in parentheses are contributers.
+
+### Published
+
+None
+
+### Queue
+
+- [2014/timeline](2014/timeline): 역대 국회, 대통령 한 눈에 보기 (@e9t)
+- [2014/nbills](2014/nbills): 국회별 발의 의안 수 (@sairion, @e9t, @cornchz)
+- [2014/rerun](2014/rerun): 국회의원 재출마, 재선출 비율 (@e9t)
+- [2015/sankey](2015/sankey): 의안 처리 프로세스 (@e9t)
+- [2015/us](2015/us/drawing.png): 미국 의회 vs 한국 국회 (@e9t)
+- [2015/count](2015/count): 대수별 국회의원 수 추이 (@e9t)
+- [2015/billtypes](2015/billtypes): 국회의 의안 뜯어보기 (@e9t)
+- [2015/trashed](2015/trashed): 나날이 증가하는 폐기물들 (@e9t)
+- [2015/proposers](2015/proposers): 법은 누가 만드나요? {@e9t)
+- [2015/billlife](2015/billlife): 발의자 타입별 의안 처리 기간 (@e9t)
+- [2015/billlife2](2015/billlife2): 대수별 의안 처리 기간 (@e9t)
+- 전세계 국가별 여성 국회의원 비율
+- 현직 국회의원 연령대
+
+
 ## Dependencies
+
 ### Python
 - numpy
 - pandas
@@ -17,15 +41,6 @@
 그림을 그리기 위해 아래를 실행한다.
 
     $ ./build.py [graphic_code]
-
-
-### List of graphic codes
-
-Names/handles in parentheses are contributers.
-
-- [2014/timeline](2014/timeline/drawing.png): 역대 국회, 대통령 타임라인 비교 (@e9t)
-- [2014/nbills](2014/nbills/nbills.png): 국회별 발의 의안 수 (@sairion, @e9t, @cornchz)
-- [2014/rerun](2014/rerun/drawing.png): 국회의원 재출마, 재선출 비율 (@e9t)
 
 
 ## How to contribute
