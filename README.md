@@ -13,7 +13,7 @@ None
 - [2014/nbills](2014/nbills): 국회별 발의 의안 수 (@sairion, @e9t, @cornchz)
 - [2014/rerun](2014/rerun): 국회의원 재출마, 재선출 비율 (@e9t)
 - [2015/sankey](2015/sankey): 의안 처리 프로세스 (@e9t)
-- [2015/us](2015/us/drawing.png): 미국 의회 vs 한국 국회 (@e9t)
+- [2015/us](2015/us): 미국 의회 vs 한국 국회 (@e9t)
 - [2015/count](2015/count): 대수별 국회의원 수 추이 (@e9t)
 - [2015/billtypes](2015/billtypes): 국회의 의안 뜯어보기 (@e9t)
 - [2015/trashed](2015/trashed): 나날이 증가하는 폐기물들 (@e9t)
