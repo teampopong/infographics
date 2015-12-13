@@ -22,6 +22,7 @@ None
 - [2015/billlife2](2015/billlife2): 대수별 의안 처리 기간 (@e9t)
 - 전세계 국가별 여성 국회의원 비율
 - 현직 국회의원 연령대
+- 국회 정당별 의석 수 ([참고](https://twitter.com/Jlechevestrier/status/675982514029203457))
 
 
 ## Dependencies
